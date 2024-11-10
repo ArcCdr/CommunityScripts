@@ -1,0 +1,4 @@
+.vscode/launch.json
+.vscode/settings.json
+plugins/nfoSceneParser/_test.py
+.DS_Store
